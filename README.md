@@ -1,2 +1,2 @@
 # DSA-algorithm
-Algorithm analysis in fava script
+Algorithm analysis in java script
